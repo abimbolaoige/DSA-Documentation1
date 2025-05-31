@@ -45,9 +45,9 @@ I'm continuing my journey with the following goals in mind:
 Thanks to the structured and practical training at DSA-Incubator's Hub, I’ve grown from a curious beginner into a confident and evolving data analyst. Every function I write, every query I run, and every dashboard I build brings me closer to mastering the language of data. 
 
 # Credits
-## Special 'Thank you' to Daddy G.O; Pastor E.A. Adeboye, who gave the opening to this amazing opportunity.
-### All the cordinators and team members at Incubator's Hub - DSA
-#### Special 'shour-out' to my amiable instructors; Muhsin Hameed (Excel Instructor), 
+## Daddy G.O; Pastor E.A. Adeboye, who gave the opening to this amazing opportunity.
+### All the cordinators and team members at Incubator's Hub - DSA,
+#### Special 'shour-out' to my amiable instructors; Muhsin Hameed (Excel Instructor), Ayodele Femi (SQL Instructor), TeeDee; Temidayo Ayeni (Github and Power BI Instructor). Picking dressing from you all. They made the journey easier.
 
 
 ## Feel free to connect with me or view some of my projects right here on GitHub or reach out on linkedin: www.linkedin.com/in/abimbola-ige-6a7377287 
